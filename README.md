@@ -1,6 +1,2 @@
 # GuildAPI
-A GuildAPI
-
-| author |
-| mocha |
-| JuNee |
+A GuildAPI with mocha and JuNee
